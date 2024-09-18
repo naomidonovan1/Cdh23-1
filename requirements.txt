@@ -6,3 +6,4 @@ pathlib==1.0.1
 datetime==5.5
 ipykernel==6.29.5
 opencv-python==4.10.0.84
+

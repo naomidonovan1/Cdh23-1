@@ -15,3 +15,6 @@ pip install -r requirements.txt
 
 #### 2. Download data
 Download from [here](https://zenodo.org/doi/10.5281/zenodo.13761405) and place within the repository to run properly. Otherwise, change path in [config.py file](/Code/Travis/config.py).
+
+
+   
